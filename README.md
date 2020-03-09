@@ -1,6 +1,6 @@
 # Map That Shows the Cloest Distance Between Firehalls and Schools
 ![lab1.png](https://github.com/UBC-GEOB472-Spring2020/jl860130-lab2/blob/master/lab2.png)
-link to the map: https://jl860130.github.io/jl860130-lab2/lab2.html
+link to the map: https://jl860130.github.io/jl860130-web/lab2.html
 
   In this particular map: Nearest Firehalls to Schools in Vancouver, the fire stations and schools in Vancouver are displayed. Schools have higher chance experiencing fire accidents due to 
 	1.	Higher population density (students and staff)
